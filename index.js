@@ -21,6 +21,7 @@ function buy_icecream(){
 
 // reducer = (prevState, action) => newState (update the states based on actions)
 
+
 // const initialState = {
 //     numOfCakes: 10,
 //     numOfIcecream: 20
